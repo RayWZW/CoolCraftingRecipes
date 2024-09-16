@@ -1,0 +1,4 @@
+name: ReverseCraft
+version: 1.0
+main: com.example.ReverseCraft
+api-version: 1.21
